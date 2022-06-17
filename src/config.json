@@ -2,7 +2,7 @@
     "title": "HU OSS",
     "port": "8080",
     "ssl": true,
-    "ws": true,
+    "ws": false,
     "prefix": "/service/",
     "codec": "xor",
     "blacklist": [
